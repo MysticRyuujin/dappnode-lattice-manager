@@ -1,0 +1,11 @@
+version: "3.4"
+services:
+  manager:
+    build: ./build-manager
+    restart: unless-stopped
+    environment:
+      - LATTICE_MANAGER_PORT=
+      - LATTICE_CONNECT_PORT=
+    ports:
+      - "3200:3200"
+    image: "manager.lattice-manager.public.dappnode.eth:0.2.0"

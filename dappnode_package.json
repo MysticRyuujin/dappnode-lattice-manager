@@ -1,0 +1,29 @@
+{
+  "name": "lattice-manager.dnp.dappnode.eth",
+  "version": "0.2.0",
+  "upstreamVersion": "master",
+  "shortDescription": "GridPlus Lattice-Manager",
+  "description": "GridPlus Lattice-Manager is a self hosted manager/wallet for the GridPlus Lattice1",
+  "type": "service",
+  "architectures": ["linux/amd64", "linux/arm64"],
+  "exposable": [],
+  "author": "MysticRyuujin <MysticRyuujin@gmail.com> (https://github.com/MysticRyuujin)",
+  "contributors": [
+    "androolloyd <opensource@andrewredden.com> (https://github.com/androolloyd)"
+  ],
+  "categories": ["Developer tools", "Communications"],
+  "keywords": ["lattice-manager", "gridplus", "lattice1", "manager", "wallet"],
+  "globalEnvs": {
+    "all": true
+  },
+  "backup": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MysticRyuujin/dappnode-lattice-manager"
+  },
+  "links": {
+    "homepage": "https://github.com/MysticRyuujin/dappnode-lattice-manager",
+    "lattice-connect": "https://github.com/MysticRyuujin/dappnode-lattice-connect"
+  },
+  "license": "GPL v3"
+}
