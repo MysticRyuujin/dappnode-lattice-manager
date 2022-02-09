@@ -4,5 +4,11 @@
     "uploadedTo": {
       "http://localhost:5001": "Wed, 09 Feb 2022 00:09:31 GMT"
     }
+  },
+  "1.1.0": {
+    "hash": "/ipfs/QmXHr1bEXDLizzUMtPsNSmqbz22yvHL5UsrNLW2swyU1H5",
+    "uploadedTo": {
+      "http://localhost:5001": "Wed, 09 Feb 2022 16:07:45 GMT"
+    }
   }
 }
