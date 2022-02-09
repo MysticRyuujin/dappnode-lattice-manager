@@ -8,7 +8,15 @@
   "1.1.0": {
     "hash": "/ipfs/QmXHr1bEXDLizzUMtPsNSmqbz22yvHL5UsrNLW2swyU1H5",
     "uploadedTo": {
-      "http://localhost:5001": "Wed, 09 Feb 2022 16:07:45 GMT"
-    }
+      "http://localhost:5001": "Wed, 09 Feb 2022 17:39:40 GMT"
+    },
+    "link": "https://dappnode.github.io/sdk-publish/?r=lattice-manager.dnp.dappnode.eth&v=1.1.0&h=%2Fipfs%2FQmXHr1bEXDLizzUMtPsNSmqbz22yvHL5UsrNLW2swyU1H5&d=0x8aE6422631292c31aeeB2efe154d6326f703F46b"
+  },
+  "1.1.1": {
+    "hash": "/ipfs/QmPyvgkatKi88kgmYgZyppZojCPaVfY4JKX8B3Bwjhn1Uz",
+    "uploadedTo": {
+      "http://localhost:5001": "Wed, 09 Feb 2022 19:05:32 GMT"
+    },
+    "link": "https://dappnode.github.io/sdk-publish/?r=lattice-manager.public.dappnode.eth&v=1.1.1&h=%2Fipfs%2FQmPyvgkatKi88kgmYgZyppZojCPaVfY4JKX8B3Bwjhn1Uz&d=0x8aE6422631292c31aeeB2efe154d6326f703F46b"
   }
 }

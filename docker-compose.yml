@@ -4,12 +4,12 @@ services:
     build:
       context: ./build-manager
       args:
-        REACT_APP_BASE_SIGNING_URL: "http://relay.lattice-connect.dappnode:3000"
+        REACT_APP_BASE_SIGNING_URL: "http://relay.lattice-connect.public.dappnode:3000"
     restart: unless-stopped
     environment:
       - LATTICE_MANAGER_PORT=3001
     ports:
       - "3001:3001"
-    image: "manager.lattice-manager.dnp.dappnode.eth:1.1.0"
+    image: "manager.lattice-manager.public.dappnode.eth:1.1.1"
 volumes:
   lattice-manager: {}
