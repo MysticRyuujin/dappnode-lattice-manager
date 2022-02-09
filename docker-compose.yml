@@ -7,5 +7,5 @@ services:
       - LATTICE_MANAGER_PORT=
       - LATTICE_CONNECT_PORT=
     ports:
-      - "3200:3200"
-    image: "manager.lattice-manager.public.dappnode.eth:0.2.0"
+      - "3001:3001"
+    image: "manager.lattice-manager.dnp.dappnode.eth:1.0.0"
