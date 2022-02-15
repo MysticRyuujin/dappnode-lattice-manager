@@ -11,3 +11,7 @@ This package exposes TCP port `3001` so you can access the the Lattice-Manager o
 This package is intended to be use along side the [Lattice-Connect](https://github.com/MysticRyuujin/dappnode-lattice-connect) DAppNode Package.
 
 This package automatically points to `http://relay.lattice-connect.public.dappnode:3000` - if you're not using the Lattice-Connect package or you need to point it elsewhere look under Settings and change the `Connection Endpoint` inside the UI.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
