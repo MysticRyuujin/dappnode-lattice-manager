@@ -1,7 +1,7 @@
 {
   "name": "lattice-manager.public.dappnode.eth",
-  "version": "1.1.1",
-  "upstreamVersion": "master",
+  "version": "1.4.0",
+  "upstreamVersion": "v0.4.0",
   "upstreamRepo": "GridPlus/lattice-manager",
   "shortDescription": "GridPlus Lattice-Manager",
   "description": "GridPlus Lattice-Manager is a self hosted manager/wallet for the GridPlus Lattice1",
@@ -15,9 +15,7 @@
   ],
   "categories": ["Developer tools", "Communications"],
   "keywords": ["lattice-manager", "gridplus", "lattice1", "manager", "wallet"],
-  "globalEnvs": {
-    "all": true
-  },
+  "globalEnvs": {},
   "backup": [],
   "repository": {
     "type": "git",
