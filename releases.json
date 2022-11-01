@@ -31,5 +31,11 @@
       "http://ipfs.ax101-f-01:5001": "Sun, 25 Sep 2022 14:15:44 GMT"
     },
     "link": "https://dappnode.github.io/sdk-publish/?r=lattice-manager.public.dappnode.eth&v=1.4.0&h=%2Fipfs%2FQmUjXRTdkqk8ojq3dL69k1gS2T9sdMXeba5gPUz1EJGDJA&d=0x8aE6422631292c31aeeB2efe154d6326f703F46b"
+  },
+  "1.5.1": {
+    "hash": "/ipfs/Qmad7MEm6sgmWucqHzFwpmiskLubYHV2Jsv1jnc377S5d9",
+    "uploadedTo": {
+      "http://localhost:5001": "Tue, 01 Nov 2022 19:40:51 GMT"
+    }
   }
 }

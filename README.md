@@ -1,6 +1,8 @@
 # Lattice-Manager DAppNode Package
 
-[![DAppNodeStore Available](https://img.shields.io/badge/DAppNodeStore-Available-brightgreen.svg)](http://my.dappnode/#/installer/lattice-connect.public.dappnode.eth)
+[![DAppNodeStore Unavailable](https://img.shields.io/badge/DAppNodeStore-Unavailable-red.svg)](http://my.dappnode/#/installer/%2Fipfs%2FQmad7MEm6sgmWucqHzFwpmiskLubYHV2Jsv1jnc377S5d9)
+
+(Because I get EVM errors trying to publish it and nobody know why...just use the IPFS hash in the release)
 
 [![Grid Plus github](https://img.shields.io/badge/GithubRepo-blue.svg)](https://github.com/gridplus/lattice-manager) (Official)
 

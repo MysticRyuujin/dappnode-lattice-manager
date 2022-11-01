@@ -4,13 +4,13 @@ services:
     build:
       context: ./build-manager
       args:
-        UPSTREAM_VER: v0.4.0
-        REACT_APP_BASE_SIGNING_URL: "http://relay.lattice-connect.public.dappnode:3000"
+        UPSTREAM_VER: v0.5.1
+        REACT_APP_BASE_SIGNING_URL: "http://relay.lattice-connect.public.dappnode:8080"
     restart: unless-stopped
     environment:
       - LATTICE_MANAGER_PORT=3001
     ports:
       - "3001:3001"
-    image: "manager.lattice-manager.public.dappnode.eth:1.4.0"
+    image: "manager.lattice-manager.public.dappnode.eth:1.5.1"
 volumes:
   lattice-manager: {}
