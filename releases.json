@@ -1,41 +1,9 @@
 {
   "1.0.0": {
-    "hash": "/ipfs/QmVoFT33R3vMuhhoTsayRcFkXbyoE1QHMRGyeJGU5MXQDE",
+    "hash": "/ipfs/Qme2bt5E4yndAxy6sFMJoNP3vHoZgqkAssfHv3DRf3AZxf",
     "uploadedTo": {
-      "http://localhost:5001": "Wed, 09 Feb 2022 00:09:31 GMT"
-    }
-  },
-  "1.1.0": {
-    "hash": "/ipfs/QmXHr1bEXDLizzUMtPsNSmqbz22yvHL5UsrNLW2swyU1H5",
-    "uploadedTo": {
-      "http://localhost:5001": "Wed, 09 Feb 2022 17:39:40 GMT"
+      "http://localhost:5001": "Thu, 03 Nov 2022 14:57:41 GMT"
     },
-    "link": "https://dappnode.github.io/sdk-publish/?r=lattice-manager.dnp.dappnode.eth&v=1.1.0&h=%2Fipfs%2FQmXHr1bEXDLizzUMtPsNSmqbz22yvHL5UsrNLW2swyU1H5&d=0x8aE6422631292c31aeeB2efe154d6326f703F46b"
-  },
-  "1.1.1": {
-    "hash": "/ipfs/QmV34kEV6bTqwMQWYY1m9Vpc688KpegsSFVY6ChNhHYTPu",
-    "uploadedTo": {
-      "http://localhost:5001": "Tue, 15 Feb 2022 00:41:37 GMT"
-    },
-    "link": "https://dappnode.github.io/sdk-publish/?r=lattice-manager.public.dappnode.eth&v=1.1.1&h=%2Fipfs%2FQmV34kEV6bTqwMQWYY1m9Vpc688KpegsSFVY6ChNhHYTPu&d=0x8aE6422631292c31aeeB2efe154d6326f703F46b"
-  },
-  "1.2.1": {
-    "hash": "/ipfs/Qmb2Vaw35PmLVi1TsLmahZh1qx3zeQMxQmutGAB7gcQV3m",
-    "uploadedTo": {
-      "http://ipfs.ax101-f-01:5001": "Sun, 25 Sep 2022 03:24:12 GMT"
-    }
-  },
-  "1.4.0": {
-    "hash": "/ipfs/QmUjXRTdkqk8ojq3dL69k1gS2T9sdMXeba5gPUz1EJGDJA",
-    "uploadedTo": {
-      "http://ipfs.ax101-f-01:5001": "Sun, 25 Sep 2022 14:15:44 GMT"
-    },
-    "link": "https://dappnode.github.io/sdk-publish/?r=lattice-manager.public.dappnode.eth&v=1.4.0&h=%2Fipfs%2FQmUjXRTdkqk8ojq3dL69k1gS2T9sdMXeba5gPUz1EJGDJA&d=0x8aE6422631292c31aeeB2efe154d6326f703F46b"
-  },
-  "1.5.1": {
-    "hash": "/ipfs/Qmad7MEm6sgmWucqHzFwpmiskLubYHV2Jsv1jnc377S5d9",
-    "uploadedTo": {
-      "http://localhost:5001": "Tue, 01 Nov 2022 19:40:51 GMT"
-    }
+    "link": "https://dappnode.github.io/sdk-publish/?r=lattice-manager.public.dappnode.eth&v=1.0.0&h=%2Fipfs%2FQme2bt5E4yndAxy6sFMJoNP3vHoZgqkAssfHv3DRf3AZxf&d=0x8aE6422631292c31aeeB2efe154d6326f703F46b"
   }
 }

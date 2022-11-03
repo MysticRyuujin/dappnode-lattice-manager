@@ -11,6 +11,6 @@ services:
       - LATTICE_MANAGER_PORT=3001
     ports:
       - "3001:3001"
-    image: "manager.lattice-manager.public.dappnode.eth:1.5.1"
+    image: "manager.lattice-manager.public.dappnode.eth:1.0.0"
 volumes:
   lattice-manager: {}

@@ -1,9 +1,13 @@
 # Changelog
 
-## [1.5.1]
+## [1.0.0]
 
 * Update to upstream version `v0.5.1`
 * Update to be compatible with `lattice-connect-v2`
+
+## OLD UNPUBLISHED VERSIONS
+
+Below are versions I tried to publish but could not due to issue fixed in `1.0.0`
 
 ## [1.4.0]
 
